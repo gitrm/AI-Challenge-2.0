@@ -27,10 +27,16 @@ jobs:
       - name: Configure Pages
         uses: actions/configure-pages@v4
 
+      - name: Prepare site structure
+        run: |
+          mkdir -p _site/task-1
+          cp -r task-1/. _site/task-1/
+          echo '<meta http-equiv="refresh" content="0;url=task-1/">' > _site/index.html
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: task-1
+          path: _site
 
       - name: Deploy to GitHub Pages
         id: deployment

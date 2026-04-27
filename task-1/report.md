@@ -125,4 +125,4 @@ python -m http.server 8080 --directory task-1
 
 ## Deployed URL
 
-[https://gitrm.github.io/AI-Challenge-2.0/](https://gitrm.github.io/AI-Challenge-2.0/)
+[https://gitrm.github.io/AI-Challenge-2.0/task-1/](https://gitrm.github.io/AI-Challenge-2.0/task-1/)

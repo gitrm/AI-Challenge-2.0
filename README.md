@@ -5,7 +5,7 @@
 A pixel-faithful static replica of an internal SharePoint leaderboard page, built with vanilla
 HTML/CSS/JS. All real employee data has been replaced with 227 synthetic placeholders.
 
-**Live demo:** [https://gitrm.github.io/AI-Challenge-2.0/](https://gitrm.github.io/AI-Challenge-2.0/)
+**Live demo:** [https://gitrm.github.io/AI-Challenge-2.0/task-1/](https://gitrm.github.io/AI-Challenge-2.0/task-1/)
 
 ### Features
 

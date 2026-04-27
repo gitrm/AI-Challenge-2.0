@@ -1,0 +1,23 @@
+# Reference material — never commit (may contain corporate / PII data)
+html.txt
+css.txt
+*.html.txt
+*.reference.html
+*.reference.css
+reference/
+**/reference/
+# Any raw .txt dump in a task folder is treated as reference material.
+task-*/*.txt
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.claude/
+
+# Node (future-proofing in case we ever add a build step)
+node_modules/
+dist/
+.vite/
+*.log

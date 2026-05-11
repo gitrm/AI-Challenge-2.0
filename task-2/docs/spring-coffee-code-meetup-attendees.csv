@@ -1,0 +1,8 @@
+﻿sep=,
+name,email,status,ticket_code,waitlist_position,checked_in,rsvped_at
+"Casey, O'Connor",casey.oconnor@example.com,going,37B1F1E8,,no,2026-05-10T19:20:29.765947+00:00
+Noah Williams,noah.williams@example.com,going,D90C5D48,,no,2026-05-10T19:20:29.765947+00:00
+Priya Singh,priya.singh@example.com,going,04B0DAF9,,no,2026-05-10T19:20:29.765947+00:00
+Marco Rossi,marco.rossi@example.com,going,8F6A862E,,no,2026-05-10T19:20:29.765947+00:00
+Ava Chen,ava.chen@example.com,going,69FD500D,,no,2026-05-10T19:20:29.765947+00:00
+Jordan Reyes,jordan.reyes@example.com,going,61B6E99E,,no,2026-05-10T19:20:29.765947+00:00

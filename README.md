@@ -31,3 +31,16 @@ node task-1/scripts/gen-avatars.js   # re-download avatars (skips existing)
 ```
 
 See [`task-1/report.md`](task-1/report.md) for the full vibe-coding workflow and design decisions.
+
+## Task - 2 - Lovable event hosting and attendance platform
+
+A lightweight event hosting and attendance platform — a tool for running free community-style events end to end. It lets organizers publish an event page and share it publicly, while attendees can confirm they are coming and receive a digital pass. The goal is to make it easy to manage turnout and entry at the venue, and to capture basic post-event outcomes.
+
+**Live demo:** [https://event-hosting.lovable.app/](https://event-hosting.lovable.app/)
+
+The .env file is sanitized.
+
+See 
+- [`task-2/docs/report.md`](task-2/docs/report.md) for the full vibe-coding workflow and design decisions.
+- [`task-2/docs/README.md`](task-2/docs/README.md) file explaining the main flows: Publish → RSVP → Ticket → Check-in.
+- [`task-2/docs/spring-coffee-code-meetup-attendees.csv`](task-2/docs/spring-coffee-code-meetup-attendees.csv) export file demonstrating the correct schema.
